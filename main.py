@@ -11,15 +11,31 @@ def hello_world():
 
 lang = [
   { 
-    'id':0,
-    'emoji':'😀',
-    'name':''
-  },
-  {
     'id':1,
     'emoji':'😀',
-    'name':''
+    'name':'Grinning'
+  },
+  {
+    'id':2,
+    'emoji':'😃',
+    'name':'Grinning2'
+  },
+  {
+    'id':3,
+    'emoji':'😄',
+    'name':'Grinning_with_smile'
+  },
+  {
+    'id':4,
+    'emoji':'😁',
+    'name':'Beaming_with_smile'
+  }, 
+  {
+  	'id':5,
+  	'emoji':'😆',
+  	'name':'Grinning_and_squinting_face'
   }
+
 ]
 
 @app.route('/api', methods=['GET'])
