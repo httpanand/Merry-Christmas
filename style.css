@@ -231,6 +231,20 @@ body {
     }
 }
 
+@media (orientation: portrait) {
+    #countdown {
+        font-size: 30px;
+    }
+   
+}
+
+@media (orientation: portrait) {
+    #card {
+        font-size: 30px;
+    }
+   
+}
+
 #gallery {
     padding-top: 100px;
 }
