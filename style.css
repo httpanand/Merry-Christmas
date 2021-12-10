@@ -229,21 +229,15 @@ body {
     #wish2 {
         font-size: 30px;
     }
-}
-
-@media (orientation: portrait) {
+    #git{
+        font-size: 30px !important;
+    }
+    }
     #countdown {
         font-size: 30px;
     }
-   
 }
 
-@media (orientation: portrait) {
-    #card {
-        font-size: 30px;
-    }
-   
-}
 
 #gallery {
     padding-top: 100px;
