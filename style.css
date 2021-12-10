@@ -229,15 +229,13 @@ body {
     #wish2 {
         font-size: 30px;
     }
+    #counter {
+        font-size: 30px;
+    }
     #git{
         font-size: 30px !important;
     }
-    }
-    #countdown {
-        font-size: 30px;
-    }
 }
-
 
 #gallery {
     padding-top: 100px;
