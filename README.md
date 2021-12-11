@@ -7,5 +7,3 @@
 <li>Mobile Responsive</li>
 </ul>
 
-<h4 align="center"><b>PREVIEW</h4>
-<img src="https://user-images.githubusercontent.com/87514488/145659683-dad198f3-f26a-413d-9c07-e04773193a61.png">
